@@ -1,4 +1,4 @@
-# Options for implementating Abstract Data Type in TypeScript
+# Patterns for implementing Abstract Data Type in TypeScript
 
 A collection of sample code for comparing and learning different styles for designing and implementing a simple abstract data type called `LocalTime` in TypeScript.
 
@@ -6,7 +6,7 @@ It provides practical examples of applying different paradigms such as object-or
 
 # Explanation of each directory
 
-Each directory contains a sample for each style.
+Each directory contains a sample for each pattern.
 
 ## 1. Class-based oop
 
